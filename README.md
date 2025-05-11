@@ -1,3 +1,3 @@
 # Webscraping-Indeed
 
-#Using PyCharm & Python
+#Webscraping Indeed in Python
